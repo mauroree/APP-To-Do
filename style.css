@@ -1,0 +1,51 @@
+body {
+
+    background-color: beige;
+}
+
+span {
+
+    padding: 20px;
+}
+
+form {
+    border: 3px solid #e68f8f;
+    border-radius: 8px;
+    padding: 20px;
+    width: 20vw;
+    margin: 0 auto;
+    background: linear-gradient(to bottom, #fff 50%, #f8f8f8 100%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+  }
+  
+  label {
+    display: inline-block;
+    width: 100px;
+    padding: 5px;
+    margin-right: 10px;
+    font-weight: bolder;
+  }
+  
+  input {
+    width: 170px;
+    height: 25px;
+    padding: 0;
+  }
+  
+  button {
+    
+    background: #e67154;
+    color: white;
+    font-size: medium;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background: #f3552e;
+  }
+  
